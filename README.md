@@ -46,7 +46,8 @@ Explore my repositories for ongoing and completed projects. Contributions, feedb
 ---
 
 ### 📫 Let's Connect!  
-- **LinkedIn**: [https://www.linkedin.com/in/carltonjhooks/](#)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/carltonjhooks/)  
 
 
 ---
